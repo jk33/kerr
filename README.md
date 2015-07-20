@@ -2,9 +2,13 @@
 kerr - predicts scores of basketball games
 
 k.py - predicts game
+
 knba - sqlite3 database
+
 update_games.pl - updates the knba games table
+
 update_rosters.pl - updates the knba rosters table
+
 
 usage:
 
